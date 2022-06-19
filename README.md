@@ -12,5 +12,5 @@ GET, POST, request parsing and validation with [Joi](https://joi.dev/).
 
 ```
 npm install
-node run index.js
+node index.js
 ```
